@@ -1,45 +1,54 @@
-body {
-background-color: #FFFCBB;
+.nachalo{
+  background: #FFDEE2
 }
-hr {
-border-style: none;
-background-color: white;
-height: 1px;
+img.pic1{
+float left: absolute;
+  margin-left: 97px;
+  margin-top: 50px;
+  width: auto;
+  height: auto;
+  border: 5px solid black;
 }
-h1 {
-  margin-left: 502px;
-  font-size: 50px;
-  background-color: #E8D5F7;
-  border-style: double;
-  position: absolute;
-  margin-top:-265px;
-  margin-bottom: 150px;
-  font-size: 100px;
+img.pic2{
+float left: absolute;
+  margin-left: 460px;
+  margin-top: -252px;
+  width: auto;
+  height: auto;
+  border: 5px solid black;
 }
-div.F{
-height: 235px;
-border:solid;
-border-color: #FFE9A0;
-border-width: 5px;
-padding: 1px;
-margin: 10px;
-background-color: #E8D5F7;
-left: 5px;
-right: 100px;
-font-size: 34px;
+img.pic3{
+float left: absolute;
+  margin-left: 830px;
+  margin-top: -298px;
+  width: auto;
+  height: auto;
+  border: 5px solid black;
 }
-p {
-  margin-left: 15px;
+.row{
+  float left: absolute;
+    margin-left: 34px;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    border: 5px solid #FFDEE2;
 }
-div.D{
-  height: 305px;
-  border:solid;
-  border-color: #FFE9A0;
-  border-width: 5px;
-  padding: 1px;
-  margin: 10px;
-  background-color: #E8D5F7;
-  left: 5px;
-  right: 100px;
-  font-size: 34px;
+.haha{
+    margin-left: 150px;
+}
+.slogan{
+  float left: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    border: 5px solid #FFDEE2;
+    font-size: 40px;
+}
+.container-fluid{
+padding: 7% 15%;
+}
+.h1{
+  font-family: Dongle-black;
+  font-weight: bold;
 }
